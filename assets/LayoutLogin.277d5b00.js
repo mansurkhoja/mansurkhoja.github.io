@@ -1,0 +1,1 @@
+import{u as o}from"./lifecycleLogger.839ecb06.js";import{o as s,c as a,a as t,v as c}from"./index.9fc1bcc0.js";const n={class:"layout-login"},r={class:"container"},d={__name:"LayoutLogin",setup(l){return o({name:"login L"}),(e,i)=>(s(),a("div",n,[t("div",r,[c(e.$slots,"default")])]))}};export{d as default};
