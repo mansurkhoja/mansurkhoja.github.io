@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper.cdc0426e.js";import{o,c as t,v as s,a}from"./index.6fa0bce1.js";const c={},n={class:"layout-error"},_=a("div",null,"errr",-1);function l(e,d){return o(),t("div",n,[_,s(e.$slots,"default")])}const u=r(c,[["render",l]]);export{u as default};

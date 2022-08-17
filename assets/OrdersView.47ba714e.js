@@ -1,0 +1,1 @@
+import{_ as s}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as t,c as o,F as r,a as e}from"./index.6fa0bce1.js";const c={},a=e("h2",{class:"main__title title"},"\u0417\u0430\u043A\u0430\u0437\u044B",-1),n=e("div",{class:"orders"},null,-1);function _(l,i){return t(),o(r,null,[a,n],64)}const f=s(c,[["render",_]]);export{f as default};

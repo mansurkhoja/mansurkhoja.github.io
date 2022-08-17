@@ -1,0 +1,1 @@
+.home .list{flex-wrap:wrap;justify-content:flex-start}.home .list__item{max-width:50%;flex:0 0 100%;padding:0 10px;margin-top:20px}@media screen and (max-width: 767px){.home .list__item{max-width:100%;padding:0;margin-top:15px}}.main__title{opacity:0;transform:translateY(-100%)}

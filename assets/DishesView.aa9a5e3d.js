@@ -1,0 +1,1 @@
+import{_ as s}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as t,c,F as o,a as e}from"./index.6fa0bce1.js";const a={},n=e("h2",{class:"main__title title"},"\u0411\u043B\u044E\u0434\u0430",-1),r=e("div",{class:"dishes"},null,-1);function _(i,l){return t(),c(o,null,[n,r],64)}const f=s(a,[["render",_]]);export{f as default};
