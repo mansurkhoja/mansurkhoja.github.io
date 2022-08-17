@@ -1,0 +1,1 @@
+import{_ as s,o as t,c,F as a,a as e}from"./index.4fb45a9c.js";const o={},r=e("h2",{class:"main__title title"},"\u0417\u0430\u043A\u0430\u0437\u044B",-1),n=e("div",{class:"orders"},null,-1);function _(l,i){return t(),c(a,null,[r,n],64)}const f=s(o,[["render",_]]);export{f as default};
